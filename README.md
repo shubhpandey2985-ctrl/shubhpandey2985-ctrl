@@ -76,32 +76,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 IoT Self-Healing Smart Automation System
-ESP32-based IoT automation system capable of detecting sensor failures, automatically switching to backup devices, and maintaining uninterrupted operation.
-
-### 🔹 Redrob Candidate Ranking System
-AI-powered candidate ranking application that generates explainable rankings using Python.
-
-### 🔹 Student Management System
-Menu-driven C application implementing CRUD operations using structures and file handling.
-
-### 🔹 Bank Management System
-Bank account management software written in C with persistent file storage.
-
----
-
-## ☁ Certifications
-
-- Google Cloud Skill Badges
-- Google Cloud Operations Suite
-- App Development on Google Cloud
-- AI Tools Workshop
-- Google Cloud Data Protection
-
----
-
 ## 📈 Current Focus
 
 - 🌟 Open Source Contributions
