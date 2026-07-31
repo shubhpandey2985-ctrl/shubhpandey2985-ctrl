@@ -63,7 +63,7 @@
   <a href="https://www.hackerrank.com/profile/shubhpandey2985" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
-  <a href="shubhpandey2985@gmail.com" target="_blank">
+  <a href=" **shubhpandey2985@gmail.com**" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
