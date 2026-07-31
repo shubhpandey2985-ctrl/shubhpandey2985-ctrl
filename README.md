@@ -70,20 +70,10 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/shubhpandey2985-ctrl/shubhpandey2985-ctrl/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/shubhpandey2985-ctrl/shubhpandey2985-ctrl/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shubhpandey2985-ctrl&show_icons=true&theme=tokyonight)
 
-###
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhpandey2985-ctrl&layout=compact&theme=tokyonight)
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhpandey2985-ctrl/shubhpandey2985-ctrl/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhpandey2985-ctrl/shubhpandey2985-ctrl/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shubhpandey2985-ctrl/shubhpandey2985-ctrl/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
-###
 ---
 
 ## 🚀 Featured Projects
