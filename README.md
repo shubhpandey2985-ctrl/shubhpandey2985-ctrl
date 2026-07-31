@@ -52,7 +52,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Social Media</h2>
+<h2 data-importer="text" align="left">Let's Connect</h2>
 
 ###
 
@@ -62,6 +62,8 @@
   </a>
   <a href="https://www.hackerrank.com/profile/shubhpandey2985" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+    <a href="https://leetcode.com/u/Shubh__Pandey_/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href=" **shubhpandey2985@gmail.com**" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
